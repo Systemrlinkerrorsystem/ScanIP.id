@@ -30,7 +30,7 @@ sudo apt install git python3 python3-pip
 
 * Generalizing:
 
-git clone https://github.com/TeamHackerCyberArmyIndonesia
+git clone https://github.com/TeamHackerCyberArmyIndonesia/ScanIP.id
 python3 -m pip install shodan
 chmod +x megascript.sh
 ```
