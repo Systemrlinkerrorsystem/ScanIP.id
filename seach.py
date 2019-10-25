@@ -1,3 +1,6 @@
+# Author : MRLINKERRORSYSTEM ^_^
+# THCA (TEAM HACKER CYBER ARMY)
+#Thanks To All Member THCA
 import sys,os
 import shodan
 
