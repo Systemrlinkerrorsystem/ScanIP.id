@@ -30,7 +30,7 @@ sudo apt install git python3 python3-pip
 
 * Generalizing:
 
-git clone https://github.com/0n1cOn3/Shodan-IP-Scan-Resulter.git
+git clone https://github.com/TeamHackerCyberArmyIndonesia
 python3 -m pip install shodan
 chmod +x megascript.sh
 ```
@@ -52,7 +52,7 @@ No issues known. Open a issues ticket if you found any.
 
 Contributors names and contact info
 
-- website   (https://mrlinkerrorsystem.blogspot.com)
+- website (https://mrlinkerrorsystem.blogspot.com)
 - Mrlinkerrorsystem (Mail: mrlinkerrorsystem@gmail.com)
 
 ## Version History
@@ -70,4 +70,4 @@ yet unknown
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [TheSpeedX](https://github.com/TeamHackerCyberArmyIndonesia)
+* [TheSoloPlayer🌎](https://github.com/TeamHackerCyberArmyIndonesia)
