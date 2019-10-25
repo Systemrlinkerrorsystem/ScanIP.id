@@ -1,3 +1,6 @@
+# Author : MRLINKERRORSYSTEM ^_^
+# THCA (TEAM HACKER CYBER ARMY)
+#Thanks To All Member THCA
 #hayoMaungapainStah
 #tinggal pake doang susah amat sih
 #!/bin/bash
